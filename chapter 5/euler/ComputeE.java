@@ -10,6 +10,7 @@ the previous item divided by i for i = 2, 3, 4, ....)
 package euler;
 
 public class ComputeE {
+    /* compute e for 3 */
     public static void main(String[] args) {
         double e = 1, item = 1;
         
