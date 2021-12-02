@@ -28,7 +28,7 @@ public class Stat {
         sdev = Math.sqrt((sdev - (Math.pow(mean, 2) / 10)) / (10 - 1));
         mean /= 10;
         
-        /** display results **/
+        // display results 
         System.out.printf("Mean: %.2f\n", mean);
         System.out.printf("Standard Deviation: %.5f", sdev);
     }
