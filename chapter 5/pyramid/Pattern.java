@@ -1,4 +1,4 @@
-/* display numbers in a pyramid pattern */
+// display numbers in a pyramid pattern 
 package pyramid;
 
 public class Pattern {
